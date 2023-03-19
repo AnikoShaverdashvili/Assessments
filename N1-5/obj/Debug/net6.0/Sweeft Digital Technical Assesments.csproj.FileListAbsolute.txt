@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\bin\Debug\net6.0\Sweeft Digital Technical Assesments.exe
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\bin\Debug\net6.0\Sweeft Digital Technical Assesments.deps.json
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\bin\Debug\net6.0\Sweeft Digital Technical Assesments.runtimeconfig.json
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\bin\Debug\net6.0\Sweeft Digital Technical Assesments.dll
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\bin\Debug\net6.0\Sweeft Digital Technical Assesments.pdb
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\obj\Debug\net6.0\Sweeft Digital Technical Assesments.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\obj\Debug\net6.0\Sweeft Digital Technical Assesments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\obj\Debug\net6.0\Sweeft Digital Technical Assesments.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\obj\Debug\net6.0\Sweeft Digital Technical Assesments.AssemblyInfo.cs
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\obj\Debug\net6.0\Sweeft Digital Technical Assesments.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\obj\Debug\net6.0\Sweeft Digital Technical Assesments.dll
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\obj\Debug\net6.0\refint\Sweeft Digital Technical Assesments.dll
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\obj\Debug\net6.0\Sweeft Digital Technical Assesments.pdb
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\obj\Debug\net6.0\Sweeft Digital Technical Assesments.genruntimeconfig.cache
+C:\Users\user\Desktop\sweeft\Sweeft Digital Technical Assesments\obj\Debug\net6.0\ref\Sweeft Digital Technical Assesments.dll

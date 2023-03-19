@@ -1,0 +1,51 @@
+C:\Users\user\Desktop\sweeft\N8Countries\bin\Debug\net6.0\N8Countries.exe
+C:\Users\user\Desktop\sweeft\N8Countries\bin\Debug\net6.0\N8Countries.deps.json
+C:\Users\user\Desktop\sweeft\N8Countries\bin\Debug\net6.0\N8Countries.runtimeconfig.json
+C:\Users\user\Desktop\sweeft\N8Countries\bin\Debug\net6.0\N8Countries.dll
+C:\Users\user\Desktop\sweeft\N8Countries\bin\Debug\net6.0\N8Countries.pdb
+C:\Users\user\Desktop\sweeft\N8Countries\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\N8Countries.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\N8Countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\N8Countries.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\N8Countries.AssemblyInfo.cs
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\N8Countries.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\N8Countries.csproj.CopyComplete
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\N8Countries.dll
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\refint\N8Countries.dll
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\N8Countries.pdb
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\N8Countries.genruntimeconfig.cache
+C:\Users\user\Desktop\sweeft\N8Countries\obj\Debug\net6.0\ref\N8Countries.dll
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\bin\Debug\net6.0\N8Countries.exe
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\bin\Debug\net6.0\N8Countries.deps.json
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\bin\Debug\net6.0\N8Countries.runtimeconfig.json
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\bin\Debug\net6.0\N8Countries.dll
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\bin\Debug\net6.0\N8Countries.pdb
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\N8Countries.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\N8Countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\N8Countries.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\N8Countries.AssemblyInfo.cs
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\N8Countries.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\N8Countries.csproj.CopyComplete
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\N8Countries.dll
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\refint\N8Countries.dll
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\N8Countries.pdb
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\N8Countries.genruntimeconfig.cache
+C:\Users\user\Desktop\Sweeft Assesements\N8Countries\obj\Debug\net6.0\ref\N8Countries.dll
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\bin\Debug\net6.0\N8Countries.exe
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\bin\Debug\net6.0\N8Countries.deps.json
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\bin\Debug\net6.0\N8Countries.runtimeconfig.json
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\bin\Debug\net6.0\N8Countries.dll
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\bin\Debug\net6.0\N8Countries.pdb
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\N8Countries.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\N8Countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\N8Countries.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\N8Countries.AssemblyInfo.cs
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\N8Countries.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\N8Countries.csproj.CopyComplete
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\N8Countries.dll
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\refint\N8Countries.dll
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\N8Countries.pdb
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\N8Countries.genruntimeconfig.cache
+C:\Users\user\Desktop\Sweeft Assessment\N8Countries\obj\Debug\net6.0\ref\N8Countries.dll

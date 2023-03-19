@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WE8ZZU3z+NDqJWD830+SuDbu45qo3ECcFXWDA+3VAaH4qXWdD0hxhvJgCef9QwoakDDpO8cQuSat8YdzIxUlwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Sweeft Assessment\\N8Countries\\N8Countries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
